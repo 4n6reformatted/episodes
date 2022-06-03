@@ -18,6 +18,6 @@ We do this for the benefit of the community, so please feel free to leave us a c
 
 <hr>
 
-### Season 1 Episodes
+### Season 1 episodes
 Use the following links to navigate to the show notes for each episode:
 1. [New Beginnings](https://4n6reformatted.github.io/episodes/season_1/s1e1.html)
