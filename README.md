@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Forensics Reformatted
 
-You can use the [editor on GitHub](https://github.com/Br3W7h1S/4n6reformatted/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+<hr>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Show description
 
-### Markdown
+**Forensics Reformatted** is a Digital Forensics and Cyber Investigations podcast presented by former Chewing the FAT hosts, Firmsky (Adam Firman) `@firmsky` and Cobbers (Phil Cobley) `@cobbers_uk` in their very own solo venture. The show is self-funded and aimed at supporting the DFIR community through insights, humour, and bringing together others from in and around the industry.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+In essence, the show is about **"Life, Bytes, and Forensics"** intended to be in a relaxed, friendly, and inclusive podcast for the enjoyment of all.
 
-```markdown
-Syntax highlighted code block
+<hr>
 
-# Header 1
-## Header 2
-### Header 3
+### How we use these pages
 
-- Bulleted
-- List
+We use these Github Pages as a means to make all our show notes available for our listeners, including any links to articles and relevant content.  We used to include such information in each episode "Description", but we found some of the platforms used to strip out the formatting and make the notes very difficult to read.
 
-1. Numbered
-2. List
+We do this for the benefit of the community, so please feel free to leave us a comment or write to us wiith any thoughts, suggestions, or requests.
 
-**Bold** and _Italic_ and `Code` text
+<hr>
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Br3W7h1S/4n6reformatted/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Season 1 Episodes
+Use the following links to navigate to the show notes for each episode:
+1. [New Beginnings](https://br3w7h1s.github.io/4n6reformatted/season_1/s1e1.html)
